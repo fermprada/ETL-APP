@@ -48,12 +48,6 @@ streamlit run etlapp.py
 ```
 
 
-## Enlace Directo
-
-Puedes acceder a la aplicación ETL en el siguiente enlace:
-
-[https://etl-app-dg6hbteatzs4lp7gp9hcvp.streamlit.app/](https://etl-app-dg6hbteatzs4lp7gp9hcvp.streamlit.app/)
-
 ## Uso
 
 - **Cargar un Archivo:** Usa el botón "Seleccionar archivo" para cargar un archivo CSV o Excel.
@@ -85,6 +79,13 @@ Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
     ```
 
 5. Crea un Pull Request en GitHub.
+
+## Enlace Directo
+
+Puedes acceder a la aplicación ETL en el siguiente enlace:
+
+[https://etl-app-dg6hbteatzs4lp7gp9hcvp.streamlit.app/](https://etl-app-dg6hbteatzs4lp7gp9hcvp.streamlit.app/)
+
 
 ## Autor
 
